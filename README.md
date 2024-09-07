@@ -34,5 +34,5 @@ The web application is built using Streamlit, providing an interface for users t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alankar25/citizen-complaint-management.git
+   git clone https://github.com/alankar25/Citizen-complaint-management.git
    cd Minor
