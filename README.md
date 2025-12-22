@@ -1,8 +1,8 @@
-# Grievance Complaint Management System
+# AI for Governance
 
 ## Overview
 
-This repository contains the implementation of a Citizen Complaint Management System using Machine Learning for automatic complaint categorization and priority assignment.
+This repository contains the implementation of a# AI for Governance using Natural Language Processing for automatic complaint categorization and priority assignment.
 
 ## Features
 
